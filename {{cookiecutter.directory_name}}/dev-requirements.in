@@ -1,0 +1,7 @@
+pytest
+bump2version
+flake8
+tox
+black
+mypy
+isort
